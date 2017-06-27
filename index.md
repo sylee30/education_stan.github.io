@@ -23,14 +23,14 @@ image:
     * [Partial Credit and Generalized Partial Credit Models with Latent Regression](http://mc-stan.org/users/documentation/case-studies/pcm_and_gpcm.html) &nbsp; <small>[_(Abstract)_](http://mc-stan.org/users/documentation/case-studies.html#partial-credit-and-generalized-partial-credit-models-with-latent-regression)</small>
 
 * Cognitive Diagnosis Models
-  * [DINA with independent attributes](http://mc-stan.org/users/documentation/case-studies/dina_independence.html) &nbsp;
+  * [DINA with independent attributes](http://mc-stan.org/users/documentation/case-studies/dina_independent.html) &nbsp;
         <small>[_(Abstract)_](http://mc-stan.org/users/documentation/case-studies.html#cognitive-diagnosis-model-dina-model-with-independent-attributes)</small>
  
 
 # R packages
 * [edstan: Stan Models for Item Response Theory](https://cran.rstudio.com/web/packages/edstan/)
 * [rstanarm: Bayesian Applied Regression Modeling via Stan](https://cran.rstudio.com/web/packages/rstanarm/)
-  * [Webinar "Introduction to Bayesian Computation Using the rstanarm Package"](http://stan.fit/2016/11/26/intro-to-rstanarm-webinar)
+  * [Webinar "Introduction to Bayesian Computation Using the rstanarm R Package"](https://youtu.be/z7zOzL9Rrzs)
 * [rethinking: Statistical Rethinking course and book package](https://github.com/rmcelreath/rethinking)
 
 # Publications
